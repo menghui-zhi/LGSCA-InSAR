@@ -1,10 +1,10 @@
 # Draft Software and Data Availability statement
 
-Finalize `[GITHUB_URL]` and `[DATE]` only after the repository is public.
+Finalize `https://github.com/menghui-zhi/LGSCA-InSAR` and `September 27, 2026` only after the repository is public.
 
 - **Name of software:** LGSCA-InSAR
 - **Developer:** Menghui Zhi
-- **Contact:** ykm69@163.com
+- **Contact:** zhi_mh@163.com
 - **Date first available:** [DATE]
 - **Software required:** Python 3.12.4; TensorFlow 2.21.0; Keras 3.15.1; NumPy; pandas; scikit-learn
 - **Programming language:** Python

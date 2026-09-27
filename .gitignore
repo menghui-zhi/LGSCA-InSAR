@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / editor files
+.idea/
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Research data
+*.npy
+*.npz
+*.h5
+*.hdf5
+
+# Trained models
+*.keras
+*.joblib
+
+# Generated outputs
+outputs/*
+!outputs/.gitkeep
+
+# Optional pretrained models
+optional_pretrained/v4/models/*
+!optional_pretrained/v4/models/.gitkeep
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak

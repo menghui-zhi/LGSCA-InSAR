@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated manuscript."
+title: "LGSCA-InSAR: Linearity-Guided Selective Complexity Allocation for InSAR Forecasting"
+version: 0.2.0
+authors:
+  - family-names: Zhi
+    given-names: Menghui
+license: MIT

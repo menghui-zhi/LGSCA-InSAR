@@ -69,7 +69,7 @@ The included synthetic dataset is intended only for software inspection and inst
 See `docs/REPRODUCIBILITY.md` for additional details.
 
 ## Citation
-A `CITATION.cff` file is included. The repository URL and release date should be added to that file after the GitHub repository is created and the public release date is known.
+Citation metadata are provided in `CITATION.cff`. If you use this software, please cite the associated manuscript.
 
 ## License
 MIT License.

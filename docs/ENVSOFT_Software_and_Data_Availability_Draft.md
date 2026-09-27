@@ -1,14 +1,13 @@
-# Draft Software and Data Availability statement
+# Software and Data Availability
 
-Finalize `https://github.com/menghui-zhi/LGSCA-InSAR` and `September 27, 2026` only after the repository is public.
 
 - **Name of software:** LGSCA-InSAR
 - **Developer:** Menghui Zhi
 - **Contact:** zhi_mh@163.com
-- **Date first available:** [DATE]
+- **Date first available:** September 27, 2026
 - **Software required:** Python 3.12.4; TensorFlow 2.21.0; Keras 3.15.1; NumPy; pandas; scikit-learn
 - **Programming language:** Python
-- **Source code:** [GITHUB_URL]
+- **Source code:** https://github.com/menghui-zhi/LGSCA-InSAR
 - **Documentation:** Installation, input-data schema, execution order, and reproducibility limitations are documented in the repository README and `docs/REPRODUCIBILITY.md`.
 - **Example data:** A synthetic, non-confidential trajectory dataset is provided for software installation and schema testing. It is not used to reproduce the manuscript forecasting-accuracy or timing results.
 - **Public source data:** Sentinel-1 observations are publicly available through Copernicus data services.
